@@ -1081,6 +1081,8 @@ _A curated list of awesome lists._
 
 
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - A Rust-based blockchain platform for decentralized mining and compute.
+
 ## Meta
 
 **License**
