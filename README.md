@@ -1065,6 +1065,10 @@ _Revolutionize the world one country at a time. Blockchainers of the world, unit
 
 
 
+## Blockchain Projects
+
+- [**RustChain**](https://github.com/Scottcjn/Rustchain) - DePIN for Vintage Hardware — AI-Augmented Proof of Real Machines. Proof-of-Antiquity blockchain where old machines outmine new ones.
+
 ## Awesome Awesomeness
 
 _A curated list of awesome lists._
